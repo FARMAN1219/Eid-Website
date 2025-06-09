@@ -1,0 +1,101 @@
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      text-align: center;
+      background-size: cover;
+      background-image: url("https://images.unsplash.com/photo-1557683316-973673baf926?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3IlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww");
+    }
+h1{
+  text-transform: uppercase;
+  background-color: orange;
+ color: azure;
+  height: 100px;
+  box-shadow: inset;
+  border-style: inset;
+}
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 20px;
+
+    }
+    .card:hover{
+      
+      font-weight: bolder;
+      background-image: url("https://img.freepik.com/premium-photo/fluid-organic-white-color-abstract-background-unique-designs_851755-381525.jpg?semt=ais_hybrid&w=740");
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      padding: 50px;
+      width: 400px;
+      height: 200px;
+      border: inset;
+      
+    }
+  h2{color: white;
+    background-color: orange;
+    font-weight: 300px;
+
+   
+    
+  }
+.card{
+  background-color: #fff0e6;
+  border-radius: 15px;
+  padding: 20px;
+  width: 350px;
+  font-family: 'Noto Nastaliq Urdu', sans-serif;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 20px auto;
+  direction: rtl;
+  text-align: right;
+}
+
+table img{
+  
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* space between text and logo */
+  flex-wrap: wrap;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.footer .logo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+   
+
+ 
+      
+
